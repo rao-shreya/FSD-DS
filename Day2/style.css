@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    width: 100%;
+    height: 830px;
+    border-radius: 12px;
+    border-style: dashed;
+    border-color:yellow;
+    
+
+}
+#heading{
+    text-align: center;
+    font-size: 60px;
+    background-color: bisque;
+    color: brown;
+}
+#row1{
+    background-color: coral;
+}g
+#row2{
+    background-color: burlywood;
+}
