@@ -1,4 +1,9 @@
-*{
+/* //Universal selector */
+/* group selector for same css */
+/* Combinators- div p{
+    background-color: aliceblue;
+} */
+*{ 
     margin: 0px;
     padding: 0px;
 }
